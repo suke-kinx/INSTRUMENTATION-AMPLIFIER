@@ -6,7 +6,6 @@ To construct and test the CMRR of an instrumentation amplifier using op-amp IC74
 <img width="668" height="182" alt="image" src="https://github.com/user-attachments/assets/cf6e4877-615b-407c-844d-47c88f5f938d" />
 
 ## THEORY:
-
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The signal source of the instrumentation amplifier is the output of the transducer. Many transducers output do not have the ability or sufficient strength to drive the next following stages. Therefore, instrumentation amplifiers are used to amplify the low-level output signal of the transducer so that it can drive the following stages such as indicator or displays.
 
 The major requirements of a instrumentation amplifier are precise, low-level signal amplification where low-noise, low thermal and time drifts, high input resistance & accurate closed-loop gain, low power consumption, high CMRR & high slew rate for superior performance.
