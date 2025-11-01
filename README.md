@@ -33,13 +33,10 @@ INSTRUMENTATION AMPLIFIER
 
 ## TABULATION:
 ![WhatsApp Image 2025-11-01 at 20 26 34_f63439f8](https://github.com/user-attachments/assets/47110988-c891-43cd-aa06-6f31d9f07d30)
-
 ## CALCULATION:
 ![WhatsApp Image 2025-11-01 at 20 27 15_2dd2569b](https://github.com/user-attachments/assets/23154f84-2ee2-4328-8a6d-9ee0ca57cd82)
-
 ## GRAPH: 
 ![WhatsApp Image 2025-11-01 at 20 27 05_3722ab87](https://github.com/user-attachments/assets/4dd85111-f62d-4840-a99d-a4c910f647c4)
-
 ## RESULT:
 Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
 
