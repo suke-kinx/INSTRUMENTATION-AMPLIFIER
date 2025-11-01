@@ -25,7 +25,6 @@ INSTRUMENTATION AMPLIFIER
 5.	By varying the value of RG, measure the output voltage for common mode and differential mode operation. Since RG is selected as constant value, provide different input value of V1 and V2.
 6.	Check the theoretical value with the experimental value.
 7.	The output voltage is obtained in the Multimeter and the input and output voltage waveforms are plotted in a graph sheet.
-
 ## MODEL GRAPH: 
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
@@ -37,4 +36,3 @@ INSTRUMENTATION AMPLIFIER
 ![WhatsApp Image 2025-11-01 at 20 27 05_3722ab87](https://github.com/user-attachments/assets/4dd85111-f62d-4840-a99d-a4c910f647c4)
 ## RESULT:
 Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
-
